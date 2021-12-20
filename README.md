@@ -25,8 +25,10 @@ for example: get beautifulsoup4 with: pip install beautifulsoup4
 
 **The project consists of two main scripts:**
 
-asn_web_scrapping.py ---> main script
-asn_web_scrapping_test.py ---> unit test script
+- asn_web_scrapping.py ---> main script
+
+- asn_web_scrapping_test.py ---> unit test script
+
 In the 'asn_web_scrapping' script, I built four other functions in addition to the 'url_to_soup' function that was provided:
 
  1. *get_reports_urls*:  This function gets the full list of the report url of each country from the world report page
