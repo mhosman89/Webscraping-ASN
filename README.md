@@ -56,10 +56,10 @@ In the 'asn_web_scrapping' script, I built four other functions in addition to t
    - Then it closes the file.
  
 In 'asn_web_scrapping_test.py' test script, i wrote a unit test case for each of the above functions using the unittest library:
-1. test_get_reports_urls
-2. test_asn_mapping_to_info
-3. test_collect_asn_data
-4. test_output_data_to_json_file
+1. *test_get_reports_urls*
+2. *test_asn_mapping_to_info*
+3. *test_collect_asn_data*
+4. *test_output_data_to_json_file*
 ---
 ## Contributors
 
